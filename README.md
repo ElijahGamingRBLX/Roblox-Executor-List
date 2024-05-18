@@ -39,7 +39,7 @@
 
 | [JJSploit](https://wearedevs.net/d/JJSploit) | Offline | Not Getting Updates
 
-| [Fluxus](https://fluxteam.net) | Discontinued
+| [Fluxus (PC Executor)](https://fluxteam.net) | Discontinued
 
 | [Trigon Evo](https://trigonexecutor.dev) | Offline
 
