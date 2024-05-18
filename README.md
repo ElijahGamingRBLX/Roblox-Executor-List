@@ -23,3 +23,26 @@
 | [Valyse](https://www.valyse.me) | Online
 
 | [Krypton](https://kryteam.com) | Online
+
+# List Of PC Roblox Executors
+* ***this repository is only for educational purposes*** *
+
+| [Wave](https://getwave.gg) | Offline | Detected
+
+| [KRNL](https://spdmteam.com) | Discontinued
+
+| [Synapse X](https://x.synapse.to) | Discontinued
+
+| [Solara](https://solaraexecutor.org) | Online
+
+| [JJSploit](https://wearedevs.net/d/JJSploit) | Offline | Not Getting Updates
+
+| [Fluxus](fluxteam.net) | Discontinued
+
+| [Trigon Evo](https://trigonexecutor.dev) | Offline
+
+| [Electron](https://electronexecutor.dev) | Offline
+
+| [Delta Executor (PC Executor)](deltaexploit.net) | Offline
+
+| [Krampus](https://loader.live) | Discontinued
