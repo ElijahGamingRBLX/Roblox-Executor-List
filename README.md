@@ -33,7 +33,7 @@
 
 | [Synapse X](https://x.synapse.to) | Discontinued
 
-| [Solara](https://solaraexecutor.org) | Online
+| [Solara](https://github.com/ElijahGamingRBLX/Solara) | Online
 
 | [JJSploit](https://wearedevs.net/d/JJSploit) | Offline | Not Getting Updates
 
