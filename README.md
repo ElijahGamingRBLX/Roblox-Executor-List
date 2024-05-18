@@ -24,6 +24,8 @@
 
 | [Krypton](https://kryteam.com) | Online
 
+| [Trigon Evo (Android)](https://trigonexecutor.dev) | Online
+
 # List Of PC Roblox Executors
 * ***this repository is only for educational purposes*** *
 
