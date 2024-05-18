@@ -29,7 +29,7 @@
 
 | [Wave](https://getwave.gg) | Offline | Detected
 
-| [KRNL](https://spdmteam.com) | Discontinued
+| [KRNL](https://krnl.vip) | Discontinued
 
 | [Synapse X](https://x.synapse.to) | Discontinued
 
