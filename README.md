@@ -45,6 +45,6 @@
 
 | [Electron](https://electronexecutor.dev) | Offline
 
-| [Delta Executor (PC Executor)](deltaexploit.net) | Offline
+| [Delta Executor (PC Executor)](https://deltaexploits.net) | Offline
 
 | [Krampus](https://loader.live) | Discontinued
